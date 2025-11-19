@@ -99,7 +99,7 @@ Where:
 - Generated audio samples and checkpoints are automatically saved in the output directory
 
 ## MCGAN generated audio samples
-Actual and MCGAN generated audio samples for Queen Present Bee by running this project:
+MCGAN generated audio samples for QueenPresent and QueenAbsent Bee sounds by running this project:
 
 [▶️ MCGAN Generated Queen Present Bee Audio](samples)
 
