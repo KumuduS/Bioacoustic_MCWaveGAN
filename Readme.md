@@ -98,11 +98,10 @@ Where:
 ### Samples
 - Generated audio samples and checkpoints are automatically saved in the output directory
 
-## Actual and MCGAN generated audio samples
+## MCGAN generated audio samples
 Actual and MCGAN generated audio samples for Queen Present Bee by running this project:
-[▶️ Actual Queen Present Bee Audio](samples/actual_queen_present_bee)
 
-[▶️ MCGAN Generated Queen Present Bee Audio](samples/mcgan_synthetic_queen_present_bee)
+[▶️ MCGAN Generated Queen Present Bee Audio](samples)
 
 ## Contributions
 This work builds upon and is inspired by the following projects:
