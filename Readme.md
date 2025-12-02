@@ -1,4 +1,4 @@
-# MCGAN (Markov Chain Generative Adversarial Networks) for Bee Bioacoustics Synthesis (PyTorch)
+# MCWaveGAN (Markov Chain Wave Generative Adversarial Networks) for Bee Bioacoustics Synthesis (PyTorch)
 
 PyTorch implementation of **WaveGAN** (Donahue et al. 2018) with an additional **Markov Chain Monte Carlo (MCMC) refinement step** to improve the quality of generated bee bioacoustic signals audio.  
 
@@ -98,10 +98,10 @@ Where:
 ### Samples
 - Generated audio samples and checkpoints are automatically saved in the output directory
 
-## MCGAN generated audio samples
-MCGAN generated audio samples for QueenPresent and QueenAbsent Bee sounds by running this project:
+## MCWaveGAN generated audio samples
+MCWaveGAN generated audio samples for QueenPresent and QueenAbsent Bee sounds by running this project:
 
-[▶️ MCGAN Generated Queen Present Bee Audio](samples)
+[▶️ MCWaveGAN Generated Queen Present Bee Audio](samples)
 
 ## Contributions
 This work builds upon and is inspired by the following projects:
