@@ -101,7 +101,7 @@ Where:
 ## MCWaveGAN generated audio samples
 MCWaveGAN generated audio samples for QueenPresent and QueenAbsent Bee sounds by running this project:
 
-[▶️ MCWaveGAN Generated Queen Present Bee Audio](samples)
+[▶️ MCWaveGAN Generated QueenPresent And QueenAbsent Bee Audio](samples)
 
 ## Contributions
 This work builds upon and is inspired by the following projects:
